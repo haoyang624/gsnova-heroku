@@ -9,7 +9,7 @@
     }, 
     "KEY": {
        "description": "设置 加密 key",
-       "value": "809240d3a021449f6e67aa73221d42df942a308a"
+       "value": "88e67eef-4e6a-4ef6-a01b-9ba194fc662f"
     },
     "Window": {
        "description": "设置 MaxStreamWindow",
@@ -20,7 +20,7 @@
        "value": "32k"
     }
   },
-  "website": "https://github.com/wangyi2005/gsnova-heroku",
-  "repository": "https://github.com/wangyi2005/gsnova-heroku",
+  "website": "https://github.com/haoyang624/gsnova-heroku",
+  "repository": "https://github.com/haoyang624/gsnova-heroku",
   "stack": "container"
  }
